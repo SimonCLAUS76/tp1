@@ -9,3 +9,5 @@
 ### Compte-rendu TP1 Introduction GIT
 
 Dans ce TP on apprend à travailler avec git.
+Nous avons appris à créer un dépôt et y placer un fichier.
+
