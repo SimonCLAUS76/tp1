@@ -10,4 +10,5 @@
 
 Dans ce TP on apprend à travailler avec git.
 Nous avons appris à créer un dépôt et y placer un fichier.
+Nous avons crée un .gitignore qui permet d'ignorer certains type de fichier pour ne pas qu'il dérange lors de la commande git status.
 
